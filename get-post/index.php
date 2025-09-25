@@ -18,6 +18,9 @@
     <a href="get-form.php">Formulário com GET</a>
     <br>
     <a href="post-form.php">Formulário com POST</a>
+
+    <br><br>
+    <a href="endereco-form.php">Endereço</a>
 </body>
 
 </html>

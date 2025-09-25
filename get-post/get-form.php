@@ -10,11 +10,11 @@
 
 <body class="container">
     <h1>Formulário com GET</h1>
-
+    <!-- GET faz algo.... -->
     <form method="GET" action="recebe-form.php">
         <div class="mb-3">
             <label for="nome" class="form-label">Digite seu nome</label>
-            <input type="text" class="form-control" id="nome" name="nome">
+            <input type="text" class="form-control" id="nome" name="nome" value="Geronimo">
         </div>
         <div class="mb-3">
             <label for="ano_nascimento" class="form-label">Ano de Nascimento:</label>
